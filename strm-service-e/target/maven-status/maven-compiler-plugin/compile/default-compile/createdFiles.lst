@@ -1,6 +1,0 @@
-ch/post/strm/poc/services/Application.class
-ch/post/strm/poc/services/service/ItemService.class
-ch/post/strm/poc/services/config/ObservabilityConfig.class
-ch/post/strm/poc/services/config/ProducerRecordObservationHandler.class
-ch/post/strm/poc/services/config/ProducerRecordPropagatorSetter.class
-ch/post/strm/poc/services/model/Item.class
