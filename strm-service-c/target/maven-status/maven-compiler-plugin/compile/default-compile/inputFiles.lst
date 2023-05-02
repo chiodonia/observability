@@ -1,0 +1,10 @@
+/Users/chiodonia/Desktop/observability/strm-service-c/src/main/java/ch/post/strm/poc/services/config/KafkaStreams.java
+/Users/chiodonia/Desktop/observability/strm-service-c/src/main/java/ch/post/strm/poc/services/config/ObservabilityConfig.java
+/Users/chiodonia/Desktop/observability/strm-service-c/src/main/java/ch/post/strm/poc/services/config/FixedKeyRecordObservationHandler.java
+/Users/chiodonia/Desktop/observability/strm-service-c/src/main/java/ch/post/strm/poc/services/config/ProducerRecordPropagatorSetter.java
+/Users/chiodonia/Desktop/observability/strm-service-c/src/main/java/ch/post/strm/poc/services/config/ProducerRecordObservationHandler.java
+/Users/chiodonia/Desktop/observability/strm-service-c/src/main/java/ch/post/strm/poc/services/config/TracingKafkaClientSupplier.java
+/Users/chiodonia/Desktop/observability/strm-service-c/src/main/java/ch/post/strm/poc/services/Application.java
+/Users/chiodonia/Desktop/observability/strm-service-c/src/main/java/ch/post/strm/poc/services/config/FixedKeyRecordPropagatorGetter.java
+/Users/chiodonia/Desktop/observability/strm-service-c/src/main/java/ch/post/strm/poc/services/config/TracingProducerInterceptor.java
+/Users/chiodonia/Desktop/observability/strm-service-c/src/main/java/ch/post/strm/poc/services/model/Item.java

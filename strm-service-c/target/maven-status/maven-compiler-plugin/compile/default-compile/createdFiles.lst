@@ -1,0 +1,12 @@
+ch/post/strm/poc/services/config/KafkaStreams$1$1.class
+ch/post/strm/poc/services/config/ObservabilityConfig.class
+ch/post/strm/poc/services/config/FixedKeyRecordPropagatorGetter.class
+ch/post/strm/poc/services/config/ProducerRecordObservationHandler.class
+ch/post/strm/poc/services/config/TracingKafkaClientSupplier.class
+ch/post/strm/poc/services/config/TracingProducerInterceptor.class
+ch/post/strm/poc/services/model/Item.class
+ch/post/strm/poc/services/Application.class
+ch/post/strm/poc/services/config/KafkaStreams$1.class
+ch/post/strm/poc/services/config/FixedKeyRecordObservationHandler.class
+ch/post/strm/poc/services/config/ProducerRecordPropagatorSetter.class
+ch/post/strm/poc/services/config/KafkaStreams.class

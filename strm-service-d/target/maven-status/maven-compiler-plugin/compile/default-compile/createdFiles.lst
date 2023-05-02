@@ -1,0 +1,6 @@
+ch/post/strm/poc/services/config/ConsumerRecordPropagatorGetter.class
+ch/post/strm/poc/services/Application.class
+ch/post/strm/poc/services/service/ItemService.class
+ch/post/strm/poc/services/config/ObservabilityConfig.class
+ch/post/strm/poc/services/config/ConsumerRecordObservationHandler.class
+ch/post/strm/poc/services/model/Item.class

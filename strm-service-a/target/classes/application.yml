@@ -1,0 +1,45 @@
+server:
+  port: 7070
+
+logging:
+  pattern:
+    level: "trace_id=%mdc{traceId} span_id=%mdc{spanId} trace_flags=%mdc{traceFlags} %p"
+
+  level:
+    root: ERROR
+    ch.post: DEBUG
+    org.springframework: ERROR
+
+management:
+  zipkin:
+    tracing:
+      endpoint: http://localhost:9411/api/v2/spans
+  tracing:
+    enabled: true
+    sampling:
+      probability: 1.0
+  endpoint.health:
+    show-details: always
+    show-components: always
+    probes.enabled: true
+  security.enabled: false
+  endpoints.web.exposure.include: '*'
+  metrics:
+    enable:
+      jvm: true
+
+spring:
+  output:
+    ansi:
+      enabled: ALWAYS
+  resources:
+    cache:
+      period: 0
+    chain:
+      enabled: true
+      cache: false
+  application:
+    name: strm-service-a
+
+app:
+  item-api-endpoint: http://localhost:7071
